@@ -1,3 +1,6 @@
+
+[Live Demo](https://reflexgame-dawidzebacki.netlify.app/)
+
 # Zadanie rekrutacyjne - JavaScript
 
 Zadanie rekrutacyjne dla osób aplikujących na stanowisko Młodszy Programista JavaScript.
